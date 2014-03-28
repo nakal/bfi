@@ -1,0 +1,4 @@
+.*.swp
+*.o
+bfi
+libbfi.a
